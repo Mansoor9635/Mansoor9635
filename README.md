@@ -1,30 +1,24 @@
-<h1 align="center">Hi, I'm Syed Mansoor Akhter</h1>
-<h3 align="center">A passionate UI/UX designer</h3>
+# 💫 About Me:
+I am a third-year Computer Science and Engineering student at the Academy of Technology, Adisaptagram, Kolkata. With over a year of hands-on experience in UI/UX design and development, I am passionate about crafting intuitive and visually appealing user experiences. Currently, I’m expanding my skill set by exploring the DevOps domain to understand the end-to-end development lifecycle and improve product delivery efficiency.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mansoor9635&label=Profile%20views&color=0e75b6&style=flat" alt="mansoor9635" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansoor9635" alt="mansoor9635" /></a> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/aKPNThb8Ts) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SyedMansoorAkhter) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Masnoor_9637) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedmansoorakhter) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/syedmansoorakh4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedmansoorakhter15@gmail.com) 
 
-<p align="left"> <a href="https://twitter.com/syedmansoorakh4" target="blank"><img src="https://img.shields.io/twitter/follow/syedmansoorakh4?logo=twitter&style=for-the-badge" alt="syedmansoorakh4" /></a> </p>
+# 💻 Tech Stack:
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MANSOOR9635&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MANSOOR9635&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MANSOOR9635&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on **BANKING APP UI design**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MANSOOR9635&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-- 🌱 I’m currently learning **DevOps and python**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 📫 How to reach me **syedmansoorakhter15@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=MANSOOR9635&icon=10&color=9)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/syedmansoorakh4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedmansoorakh4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/syed mansoor akhter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed mansoor akhter" height="30" width="40" /></a>
-<a href="https://instagram.com/mansoor_9637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mansoor_9637" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansoor9635&show_icons=true&locale=en&layout=compact" alt="mansoor9635" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mansoor9635&show_icons=true&locale=en" alt="mansoor9635" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mansoor9635&" alt="mansoor9635" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
